@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+PyPDF2
+python-multipart
+opencv-python
+numpy
+Pillow
+google-generativeai
+python-dotenv

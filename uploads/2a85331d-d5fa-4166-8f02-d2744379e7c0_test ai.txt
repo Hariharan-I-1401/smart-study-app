@@ -1,0 +1,17 @@
+Artificial Intelligence (AI) is the broadest field among the three. It refers to the overall concept of
+making machines capable of performing tasks that normally require human intelligence—such as
+understanding language, solving problems, recognizing patterns, planning, and decision-making. AI
+includes everything from simple rule-based systems to advanced learning models. Any system that
+mimics human thinking, even without learning from data, falls under AI.
+Machine Learning (ML) is a subset of AI. ML focuses on building systems that can learn from data
+instead of being explicitly programmed. Instead of writing rules manually, we feed the model data
+and allow it to find patterns. ML algorithms such as linear regression, decision trees, SVM,
+k-means, and random forests learn relationships from examples to make predictions or
+classifications. ML improves as more data is given, but still requires human feature engineering and
+domain expertise.
+Deep Learning (DL) is a specialized subset of ML that uses artificial neural networks with many
+layers (deep neural networks). DL models automatically learn complex patterns and features from
+large datasets without manual intervention. Unlike traditional ML, DL does not require hand-crafted
+features; it extracts them on its own. This makes DL highly powerful for tasks like image
+recognition, speech processing, natural language understanding, and autonomous driving, but it
+needs large computing power and big datasets.
