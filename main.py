@@ -22,7 +22,7 @@ async def lifespan(app: FastAPI):
 app = FastAPI(title="Smart Learning App", version="1.0.0", lifespan=lifespan)
 
 # TODO: Replace this placeholder with your actual API key
-API_KEY = "AIzaSyAkiZmL3vPa4xHbHr8iu54TAfWIeWOCe4o"
+API_KEY = "AIzaSyAkiZmL3vPa4"
 genai.configure(api_key=API_KEY)
 
 # Mount static files
